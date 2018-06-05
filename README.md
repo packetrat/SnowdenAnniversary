@@ -13,5 +13,5 @@ June 2018 marks the 5th anniversary of the publication of details of the NSA's b
 
 *Did the Snowden leaks have a lasting impact on how the US government is viewed by citizens and by people around the world, and how has it shaped US policy and politics? How does this color the regulatory environment for technology?
 
-Please share your thoughts with me on these topics as contributions to the main document, or by email at sean [dot] gallagher [at] arstechnica [dot] com. (Or, if you'd rather not have your email in my corporate system, send to thepacketrat [at] protonmail [dot] com. I'll fold all the comments that I receive into the master document, which I'll keep public.
+Please share your thoughts with me on these topics as "issues" on this document, or by email at sean [dot] gallagher [at] arstechnica [dot] com. (Or, if you'd rather not have your email in my corporate system, send to thepacketrat [at] protonmail [dot] com. I'll fold all the comments that I receive into the master document, which I'll keep public.
 
